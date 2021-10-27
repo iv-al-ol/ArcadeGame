@@ -1,5 +1,3 @@
-# Игра Shmup - 14 часть
-# Конец игры
 # Frozen Jam by tgfcoder <https://twitter.com/tgfcoder> licensed under CC-BY-3
 # Art from Kenney.nl
 import pygame
