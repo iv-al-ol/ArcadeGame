@@ -18,5 +18,3 @@ class Player(pg.sprite.Sprite):
         keystate = pg.key.get_pressed()
         if keystate[pg.K_SPACE]:
             self.rect.y -= 5
-        else:
-            self.rect.y = options.HEIGHT//2
