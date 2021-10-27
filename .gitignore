@@ -1,7 +1,4 @@
 workspace_ArcadeGame.code-workspace
-EXAMPLE.py
 __pycache__/
-EXAMPLE.py
-.gitignore
 EXAMPLE.py
 .gitignore
